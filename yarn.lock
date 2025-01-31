@@ -11523,21 +11523,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:^7.0.1":
-  version: 7.0.1
-  resolution: "react-router-dom@npm:7.0.1"
+"react-router-dom@npm:^7.1.4":
+  version: 7.1.4
+  resolution: "react-router-dom@npm:7.1.4"
   dependencies:
-    react-router: "npm:7.0.1"
+    react-router: "npm:7.1.4"
   peerDependencies:
     react: ">=18"
     react-dom: ">=18"
-  checksum: 10c0/aebc0af4ea4ac4e9482b0501c06f3af42adc68b4064c556b00954dcb7a6ec233d41f3eac86e388b9a8068e8ba5d44b854b7e29c806af9ed6a8798682d6984b46
+  checksum: 10c0/edd5696c67d725a1109cc9a3602b2fc7df708fbfea21ee5f56ad0586fb9f4e11dfc13e0f516fa99771207e28d82ce746e84869fa4cd43826130afaf5f3bc1b43
   languageName: node
   linkType: hard
 
-"react-router@npm:7.0.1":
-  version: 7.0.1
-  resolution: "react-router@npm:7.0.1"
+"react-router@npm:7.1.4":
+  version: 7.1.4
+  resolution: "react-router@npm:7.1.4"
   dependencies:
     "@types/cookie": "npm:^0.6.0"
     cookie: "npm:^1.0.1"
@@ -11549,7 +11549,7 @@ __metadata:
   peerDependenciesMeta:
     react-dom:
       optional: true
-  checksum: 10c0/aac4c9989ae6b9cf989b5ddcda88f505ba0704a4e4b37ae04c819c2bd02f080361f9eb1793695e3ecf41080d91b79aee454c3163b586d1b19ceca13f6eacec0e
+  checksum: 10c0/3b57c46d7f6e7f04e6cf6e4e3dfba8cf5346baa1b56afc7234ce29c84776e9fd85300df227dc757e82574a05346d93467963f2ca15d92492bb07435d284bf934
   languageName: node
   linkType: hard
 
@@ -13663,7 +13663,7 @@ __metadata:
     react: "npm:^19.0.0"
     react-dom: "npm:^19.0.0"
     react-ribbons: "npm:^1.1.7"
-    react-router-dom: "npm:^7.0.1"
+    react-router-dom: "npm:^7.1.4"
     react-scripts: "npm:5.0.1"
     smoothscroll-polyfill: "npm:^0.4.4"
     typescript: "npm:^5.7.2"
